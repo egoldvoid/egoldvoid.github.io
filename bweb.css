@@ -10,6 +10,11 @@ body {
     cursor: pointer; 
 }
 
+@media (min-width: 600px) {
+  body {
+    font-size: 18px;
+  }
+
 #sub-activities ul {
     list-style-type: none; 
     padding: 0; 
