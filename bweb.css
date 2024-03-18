@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 100px;
+    padding: 0;
+    text-align: center;
+}
+
+#sub-activities li:hover {
+    background-color: #e0e0e0; 
+    cursor: pointer; 
+}
+
+#sub-activities ul {
+    list-style-type: none; 
+    padding: 0; 
+}
+
+#sub-activities li {
+    background-color: #f0f0f0; 
+    margin: 5px 0; 
+    padding: 10px; 
+    border-radius: 5px; 
+}
+
+#sub-activities {
+    max-width: 600px; 
+    margin: auto; 
+}
+
+#sub-activities li {
+    font-size: 16px; 
+    color: #333;
+}
+
+
+
+
+
+
+
