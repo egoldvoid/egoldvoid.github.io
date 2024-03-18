@@ -1,0 +1,1 @@
+# egoldvoid.github.io
